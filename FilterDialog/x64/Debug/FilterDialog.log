@@ -1,0 +1,7 @@
+﻿  GeneratePanel.cpp
+c:\users\hp\desktop\filter tool\visual studio\filterdialog\filterdialog\generatepanel.cpp(110): warning C4805: '==': unsafe mix of type '_Ty2' and type 'bool' in operation
+          with
+          [
+              _Ty2=boolean
+          ]
+  FilterDialog.vcxproj -> C:\Users\HP\Desktop\Filter Tool\Visual Studio\FilterDialog\x64\Debug\FilterDialog.exe
